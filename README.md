@@ -1,2 +1,2 @@
 # Embedded-C
-Fun studd :) 
+Fun stuff 😎
